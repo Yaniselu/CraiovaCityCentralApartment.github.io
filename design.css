@@ -126,8 +126,13 @@ body {
     margin-bottom: 60px;
 }
 
+.ending {
+    color: #543310;
+}
+
 .author {
     display: flex;
     justify-content: center;
     margin: 40px;
+    color: #543310;
 }
