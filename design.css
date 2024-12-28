@@ -64,14 +64,17 @@ body {
 
 .locations-btn {
     display: flex;
-    justify-content: space-around;
-    flex-direction: row;
+    align-items: center;
+    flex-direction: column;
     margin: 40px;
 }
 
 .btn-primary {
     background-color: #AF8F6F;
+    margin: 20px;
     border: 1px solid #AF8F6F;
+    width: 20%;
+    height: 20%;
 }
 
 .rules-title {
