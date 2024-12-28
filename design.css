@@ -2,6 +2,12 @@ body {
     background-color: #F8F4E1;
 }
 
+.gtranslate_wrapper {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+
 .carousel-inner {
     height: 40%;
     width: 80%;
