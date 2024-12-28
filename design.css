@@ -16,6 +16,14 @@ body {
     margin-top: 16px;
 }
 
+.carousel-control-prev-icon {
+    background-color: #543310;
+}
+
+.carousel-control-next-icon {
+    background-color: #543310;
+}
+
 .title {
     display: flex;
     justify-content: center;
@@ -111,6 +119,42 @@ body {
 .house-plan-img {
     width: 88%;
     height: 70%;
+}
+
+.img-wrapper {
+    display: flex;
+    justify-content: center;
+    margin: 6px;
+}
+
+.img-size {
+    width: 80%;
+    height: 60%;
+    margin-bottom: 20px;
+}
+
+.termostat-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+    & information-wrapper {
+        display: flex;
+        flex-direction: row;
+        margin-left: 20px;
+    }
+}
+
+.text {
+    color: #543310;
+    margin-left: 26px;
+    margin-right: 26px;
+}
+
+.last-text {
+    margin-bottom: 60px;
 }
 
 .ending {
