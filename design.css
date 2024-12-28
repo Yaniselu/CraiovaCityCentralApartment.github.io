@@ -112,3 +112,17 @@ body {
     margin-left: 30px;
     margin-right: 30px;
 }
+
+.first {
+    margin-top: 60px;
+}
+
+.last {
+    margin-bottom: 60px;
+}
+
+.author {
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+}
