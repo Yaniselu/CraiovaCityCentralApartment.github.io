@@ -73,8 +73,7 @@ body {
     background-color: #AF8F6F;
     margin: 20px;
     border: 1px solid #AF8F6F;
-    width: 20%;
-    height: 20%;
+    width: fit-content!important;
 }
 
 .rules-title {
