@@ -128,9 +128,8 @@ body {
 }
 
 .img-size {
-    width: 80%;
-    height: 60%;
-    margin-bottom: 20px;
+    width: 100px;
+    height: 80px;
 }
 
 .termostat-wrapper {
