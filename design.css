@@ -1,0 +1,111 @@
+body {
+    background-color: #F8F4E1;
+}
+
+.carousel-inner {
+    height: 40%;
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 60px;
+    margin-top: 16px;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #543310;
+}
+
+.middle-line {
+    width: 650px;
+    height: 6px;
+    border-radius: 4px;
+    background-color:#AF8F6F ;
+    margin-bottom: 20px;
+}
+
+.middle-line-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wifi-name {
+    display: flex;
+    flex-direction: row;
+    margin: 40px;
+}
+
+.wifi-password {
+    display: flex;
+    flex-direction: row;
+    margin: 40px;
+}
+
+.name {
+    margin-left: 4px;
+}
+
+.password {
+    margin-left: 4px;
+}
+
+.wifi-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.locations-title {
+    display: flex;
+    justify-content: center;
+    color: #543310;
+}
+
+.locations-btn {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    margin: 40px;
+}
+
+.btn-primary {
+    background-color: #AF8F6F;
+    border: 1px solid #AF8F6F;
+}
+
+.rules-title {
+    display: flex;
+    justify-content: center;
+    color: #543310;
+}
+
+.rules {
+    margin: 40px;
+    color: #543310;
+}
+
+.house-plan-title {
+    display: flex;
+    justify-content: center;
+    color: #543310;
+    margin-bottom: 20px;
+}
+
+.house-plan {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    margin-bottom: 40px;
+}
+
+.house-plan-img {
+    width: 88%;
+    height: 70%;
+}
+
+.ending {
+    margin-left: 30px;
+    margin-right: 30px;
+}
